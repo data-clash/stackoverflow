@@ -1,6 +1,5 @@
 
 ### Table of Contents
-#### By Anuja
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
